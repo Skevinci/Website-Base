@@ -8,9 +8,9 @@
 * [后勤保障中心](https://houqin.sjtu.edu.cn/) （涉及到餐饮、交通等后勤方面）
 * [网络信息中心](https://net.sjtu.edu.cn/)
 * [保卫处](https://bwc.sjtu.edu.cn/) （54749110）
-* [财务处](https://www.jdcw.sjtu.edu.cn/)
-* [家园网](http://ourhome.sjtu.edu.cn/)
-* [网管部（开网指导）](https://nimo.sjtu.edu.cn/tutorial/)
+* [财务处](https://www.jdcw.sjtu.edu.cn/) （学费缴费）
+* [家园网](http://ourhome.sjtu.edu.cn/) （宿舍、水电缴费）
+* [网管部](https://nimo.sjtu.edu.cn/tutorial/) （含开网指导）
 * [申请开网](https://netapply.sjtu.edu.cn/)
 * [VPN教程](https://net.sjtu.edu.cn/wlfw/VPN.htm)
 

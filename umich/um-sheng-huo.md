@@ -12,7 +12,7 @@
 
   有美国储蓄卡的可用E-Check支付，没有则通过UM推荐的第三方平台: [Flywire](https://www.flywire.com/zh/)
 
-* [UM地图](https://maps.studentlife.umich.edu/)
+* [UM 地图](https://maps.studentlife.umich.edu/) （需要VPN）
 * [UM VPN](https://its.umich.edu/enterprise/wifi-networks/vpn/getting-started)
 * [UM 时间](https://time.is/ET)
 * [UM学生社团](https://maizepages.umich.edu/)
