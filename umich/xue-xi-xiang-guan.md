@@ -10,9 +10,11 @@
 * [LSA Course Guide](http://www.lsa.umich.edu/CG/default.aspx)
 * [Atlas课程查询](https://atlas.ai.umich.edu/)
 * [Atlas Schedule Builder](https://atlas.ai.umich.edu/accounts/login/?next=/schedule-builder/)
-* [CS选修课名单](https://cse.engin.umich.edu/academics/undergraduate/computer-science-eng/cs-eng-flexible-technical-electives/)
-* [DS选修课名单](https://cse.engin.umich.edu/academics/undergraduate/data-science-eng/ds-eng-electives-and-capstone-courses/)
+* [CS选修课](https://cse.engin.umich.edu/academics/undergraduate/computer-science-eng/cs-eng-flexible-technical-electives/)List
+* [DS选修课](https://cse.engin.umich.edu/academics/undergraduate/data-science-eng/ds-eng-electives-and-capstone-courses/)List
 * [人文课要求](https://bulletin.engin.umich.edu/ug-ed/reqs/#subnav-12)
 * [UM Zoom](https://documentation.its.umich.edu/zoom-login)
 * [Academic Advising预约](https://cse.engin.umich.edu/academics/for-current-students/advising/)
+
+
 
