@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hello, World!](README.md)
+* [UMJI Canvas](umji-canvas.md)
 
 ## SJTU
 
