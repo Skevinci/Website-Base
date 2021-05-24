@@ -4,7 +4,7 @@
 * [校区之间的班车](https://bus.sjtu.edu.cn/commute/2)
 * [综合信息服务网](https://info.sjtu.edu.cn/index.aspx?jatkt=rejected) （涉及各方面具体链接）
 * [校医院](https://hospital.sjtu.edu.cn/#/) （含医疗报销）闵行校区急诊电话：54742400
-* [学生事务中心（奖助学金、勤工助学）](http://affairs.sjtu.edu.cn/main.action)
+* [学生事务中心](http://affairs.sjtu.edu.cn/main.action) （奖助学金、勤工助学）
 * [后勤保障中心](https://houqin.sjtu.edu.cn/) （涉及到餐饮、交通等后勤方面）
 * [网络信息中心](https://net.sjtu.edu.cn/)
 * [保卫处](https://bwc.sjtu.edu.cn/) （54749110）
