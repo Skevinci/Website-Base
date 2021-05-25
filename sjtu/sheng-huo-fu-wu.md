@@ -13,4 +13,6 @@
 * [网管部](https://nimo.sjtu.edu.cn/tutorial/) （含开网指导）
 * [申请开网](https://netapply.sjtu.edu.cn/)
 * [VPN教程](https://net.sjtu.edu.cn/wlfw/VPN.htm)
+* [教学楼信息发布系统](https://ids.sjtu.edu.cn/)
+* [宿舍网接入交换机运行状态](https://net.sjtu.edu.cn/dorm/index.php)
 
