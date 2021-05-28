@@ -25,8 +25,7 @@
 * [Michigan Online](https://online.umich.edu/)
 * [UM Speedtest](http://umich.speedtestcustom.com/)
 * [UM Brand & Visual Identity视觉规范模板](https://brand.umich.edu/) &lt;Visual specification template&gt;
-* [MDen周边](https://mden.com/) &lt;Official merchandise retailer of michigan athletes&gt;
-* [MDen 周边2](https://www.fanatics.com/college/michigan-wolverines/o-49+t-12646186+z-937677-115263359) &lt;Official merchandise retailer of michigan athletes2&gt;
+* [MDen周边](https://mden.com/) &lt;Official merchandise retailer of michigan athletics&gt;
 * [Being Not-Rich at UM](https://docs.google.com/document/d/1Ou-AelCrAg6soUJVbiviKAGBGF276w-UBlw-eMigwOA/edit)
 * [Location abbr.](https://ro.umich.edu/calendars/schedule-of-classes/locations)
 * [Acronyms Decoder](https://campusinfo.umich.edu/acronyms)
