@@ -11,7 +11,7 @@
 * [财务处](https://www.jdcw.sjtu.edu.cn/) （学费缴费） &lt;The bursar's office \(tuition payment\)&gt;
 * [家园网](http://ourhome.sjtu.edu.cn/) （宿舍、水电缴费） &lt;Home network \(dormitory, water and electricity expends\)&gt;
 * [网管部](https://nimo.sjtu.edu.cn/tutorial/) （含开网指导） &lt;Network Management Department \(Set up internet connection\)&gt;
-* [申请开网](https://netapply.sjtu.edu.cn/) &lt;To apply for opening network&gt;
+* [申请开网](https://netapply.sjtu.edu.cn/) &lt;Application for Internet Access&gt;
 * [VPN教程](https://net.sjtu.edu.cn/wlfw/VPN.htm) &lt;VPN tutorial&gt;
 * [教学楼信息发布系统](https://ids.sjtu.edu.cn/) &lt;The building information release system&gt;
 * [宿舍网接入交换机运行状态](https://net.sjtu.edu.cn/dorm/index.php) &lt;Dormitory network access switch operation status&gt;
