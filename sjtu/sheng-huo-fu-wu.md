@@ -1,7 +1,7 @@
 # 生活服务-Life Services
 
 * [交我办](https://my.sjtu.edu.cn/Task#allow) &lt;MySJTU&gt;
-* [校区之间的班车](https://bus.sjtu.edu.cn/commute/2) &lt;Bus service between school districts&gt;
+* [校区之间的班车](https://bus.sjtu.edu.cn/commute/2) &lt;Bus service between school campuses&gt;
 * [综合信息服务网](https://info.sjtu.edu.cn/index.aspx?jatkt=rejected) （涉及各方面具体链接） &lt;SJTU info\(Including various aspects of the specific links\)&gt;
 * [校医院](https://hospital.sjtu.edu.cn/#/) （含医疗报销）闵行校区急诊电话：54742400 &lt;University hospital\(including Medical reimbersement\) Campus emergency telephone:54742400&gt;
 * [学生事务中心](http://affairs.sjtu.edu.cn/main.action) （奖助学金、勤工助学） &lt;Student affairs center \(scholarships, work-study\)&gt;
