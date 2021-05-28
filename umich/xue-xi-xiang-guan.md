@@ -3,7 +3,7 @@
 * [UM Canvas](https://canvas.it.umich.edu/)
 * [Gradescope](https://www.gradescope.com/)
 * [图书馆](https://lib.umich.edu/) &lt;Library&gt;
-* [教学校历](https://ro.umich.edu/calendars) &lt;School Year&gt;
+* [教学校历](https://ro.umich.edu/calendars) &lt;Academic Calendar&gt;
 * [EECS课程信息](https://bulletin.engin.umich.edu/courses/eecs/) &lt;EECS course information&gt;
 * [STATS统计相关课程](https://lsa.umich.edu/stats/undergraduate-students/statistics-courses.html) &lt;STATS courses related to statistics&gt;
 * [Math信息](https://lsa.umich.edu/math/undergraduates/undergraduate-math-courses.html) &lt;Math info&gt;

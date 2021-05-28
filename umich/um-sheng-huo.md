@@ -21,6 +21,7 @@
 * [课外活动](https://events.umich.edu/) &lt;Extracurricular activities&gt;
 * [UM IT Services](https://its.umich.edu/)
 * [UM Box](https://umich.app.box.com/)
+* [UM Dropbox](https://its.umich.edu/communication/collaboration/dropbox)
 * [Michigan Online](https://online.umich.edu/)
 * [UM Speedtest](http://umich.speedtestcustom.com/)
 * [UM Brand & Visual Identity视觉规范模板](https://brand.umich.edu/) &lt;Visual specification template&gt;
