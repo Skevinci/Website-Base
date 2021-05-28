@@ -1,4 +1,4 @@
-# 学习相关
+# 学习相关-Learning Related
 
 * [UM Canvas](https://canvas.it.umich.edu/)
 * [Gradescope](https://www.gradescope.com/)
@@ -15,6 +15,7 @@
 * [人文课要求](https://bulletin.engin.umich.edu/ug-ed/reqs/#subnav-12)
 * [UM Zoom](https://documentation.its.umich.edu/zoom-login)
 * [Academic Advising预约](https://cse.engin.umich.edu/academics/for-current-students/advising/)
+* [MDP](https://mdp.engin.umich.edu/)
 
 
 

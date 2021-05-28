@@ -1,4 +1,4 @@
-# 学习相关
+# 学习相关-Learning Related
 
 * [交大Canvas](https://oc.sjtu.edu.cn/)
 * [图书馆](http://www.lib.sjtu.edu.cn/) （查找文献）

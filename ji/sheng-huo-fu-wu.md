@@ -1,4 +1,4 @@
-# 生活服务
+# 生活服务-Life Services
 
 * [JI官网](https://www.ji.sjtu.edu.cn/)
 * [会议室预订](https://booking.ji.sjtu.edu.cn/web/resource/ROOM/blocks)

@@ -1,4 +1,4 @@
-# 工具与资源
+# 工具与资源-Tools & Resources
 
 * [Workflow Platform](https://bpm.umji.sjtu.edu.cn/Default.aspx) \(IT整合资源，含TA申请、WC预约和学分转换等）
 * [IT资源](https://www.umji.sjtu.edu.cn/)

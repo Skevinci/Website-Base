@@ -1,4 +1,4 @@
-# 工具与资源
+# 工具与资源-Tools & Resources
 
 * [视觉形象系统](https://vi.sjtu.edu.cn/) \(含ppt模板、校徽）
 * [软件授权中心 ](http://lic.si.sjtu.edu.cn/Default/index)（需要开启交大VPN）

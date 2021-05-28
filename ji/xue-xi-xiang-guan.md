@@ -1,4 +1,4 @@
-# 学习相关
+# 学习相关-Learning Related
 
 * [选课系统](https://coursesel.umji.sjtu.edu.cn/)
 * [VC210 Sapling](https://www.saplinglearning.com/ibiscms/login/)

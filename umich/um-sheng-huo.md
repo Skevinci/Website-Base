@@ -1,4 +1,4 @@
-# UM生活
+# UM生活-Life in UM
 
 * [Student Life](https://studentlife.umich.edu/)
 * [校学生会](https://www.csg.umich.edu/)
@@ -20,7 +20,6 @@
 * [心理咨询处](https://caps.umich.edu/)
 * [课外活动](https://events.umich.edu/)
 * [UM IT Services](https://its.umich.edu/)
-* [MDP](https://mdp.engin.umich.edu/)
 * [UM Box](https://umich.app.box.com/)
 * [Michigan Online](https://online.umich.edu/)
 * [UM Speedtest](http://umich.speedtestcustom.com/)
