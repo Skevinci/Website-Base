@@ -6,4 +6,5 @@
 * [VP150 Master Physics](https://mlm.pearson.com/northamerica/masteringphysics/)
 * [Writing Center](https://bookeo.com/umji-writingcenter/customer)
 * [Courses Degree Process Checking](http://degree.ji.sjtu.edu.cn/)
-
+* [SilverFOCS Official Website](https://focs.ji.sjtu.edu.cn/silverfocs/)
+* [Gitea](https://focs.ji.sjtu.edu.cn/git/)
