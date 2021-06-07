@@ -21,3 +21,7 @@
 * [UM生活-Life in UM](umich/um-sheng-huo.md)
 * [JI -&gt; UM](umich/ji-greater-than-um.md)
 
+## 3+2
+
+* [学习相关-Learning Related](3+2/xue-xi-xiang-guan-learning-related.md)
+
